@@ -1,3 +1,5 @@
+package dsa.practise;
+
 import java.util.Arrays;
 
 public class SameElementsAppearsTogether {
